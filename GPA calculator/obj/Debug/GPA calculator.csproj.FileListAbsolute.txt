@@ -1,0 +1,11 @@
+D:\C#\GPA calculator\bin\Debug\GPA calculator.exe.config
+D:\C#\GPA calculator\bin\Debug\GPA calculator.exe
+D:\C#\GPA calculator\bin\Debug\GPA calculator.pdb
+D:\C#\GPA calculator\obj\Debug\GPA calculator.csproj.AssemblyReference.cache
+D:\C#\GPA calculator\obj\Debug\GPA calculator.csproj.SuggestedBindingRedirects.cache
+D:\C#\GPA calculator\obj\Debug\GPA_calculator.Form1.resources
+D:\C#\GPA calculator\obj\Debug\GPA_calculator.Properties.Resources.resources
+D:\C#\GPA calculator\obj\Debug\GPA calculator.csproj.GenerateResource.cache
+D:\C#\GPA calculator\obj\Debug\GPA calculator.csproj.CoreCompileInputs.cache
+D:\C#\GPA calculator\obj\Debug\GPA calculator.exe
+D:\C#\GPA calculator\obj\Debug\GPA calculator.pdb

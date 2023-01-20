@@ -1,0 +1,11 @@
+D:\C#\GPA CAL\bin\Debug\GPA CAL.exe.config
+D:\C#\GPA CAL\bin\Debug\GPA CAL.exe
+D:\C#\GPA CAL\bin\Debug\GPA CAL.pdb
+D:\C#\GPA CAL\obj\Debug\GPA CAL.csproj.AssemblyReference.cache
+D:\C#\GPA CAL\obj\Debug\GPA CAL.csproj.SuggestedBindingRedirects.cache
+D:\C#\GPA CAL\obj\Debug\GPA_CAL.Form1.resources
+D:\C#\GPA CAL\obj\Debug\GPA_CAL.Properties.Resources.resources
+D:\C#\GPA CAL\obj\Debug\GPA CAL.csproj.GenerateResource.cache
+D:\C#\GPA CAL\obj\Debug\GPA CAL.csproj.CoreCompileInputs.cache
+D:\C#\GPA CAL\obj\Debug\GPA CAL.exe
+D:\C#\GPA CAL\obj\Debug\GPA CAL.pdb
